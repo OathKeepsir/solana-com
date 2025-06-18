@@ -1,5 +1,0 @@
-{
-  "title": "Conceitos fundamentais",
-  "pages": ["accounts", "transactions", "fees", "programs", "pda", "cpi"],
-  "defaultOpen": true
-}
