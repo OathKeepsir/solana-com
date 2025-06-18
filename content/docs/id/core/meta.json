@@ -1,5 +1,0 @@
-{
-  "title": "Konsep Inti",
-  "pages": ["accounts", "transactions", "fees", "programs", "pda", "cpi"],
-  "defaultOpen": true
-}
